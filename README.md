@@ -8,11 +8,22 @@
 
 ### 👋 About me
 
-I build **Telegram bots** in Python, make **Minecraft mods**, and work on various small projects. I work on both personal projects and free software.
+I work on **personal projects** and **free software**. I develop **Telegram bots** and **Minecraft mods** — including on request. I build **landing pages** and websites.
+
+I also work with **generative AI** and **machine learning**.
 
 ---
 
-### 🛠 Technologies
+### 🛠 What I do
+
+![Telegram](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+![Minecraft](https://img.shields.io/badge/Minecraft_Mods-62B47A?style=flat-square&logo=minecraft&logoColor=white)
+![Web](https://img.shields.io/badge/Landing_Pages-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
+![AI](https://img.shields.io/badge/Generative_AI_&_ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+---
+
+### 💻 Tech stack
 
 ![Nix](https://img.shields.io/badge/Nix-5277C3?style=flat-square&logo=nixos&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -21,7 +32,7 @@ I build **Telegram bots** in Python, make **Minecraft mods**, and work on variou
 
 ---
 
-### 💻 Environment
+### 🖥 Environment
 
 🐧 **Systems:** Arch Linux · NixOS · macOS  
 ✏️ **Editors:** Cursor · NeoVim
@@ -34,8 +45,8 @@ I build **Telegram bots** in Python, make **Minecraft mods**, and work on variou
 
 ---
 
-<div align="center">
+### 📬 Contact
 
-![Profile views](https://komarev.com/ghpvc/?username=MrachniyTipchek&color=1793d1&style=flat-square)
+[![Telegram](https://img.shields.io/badge/Telegram-AdderaIIXR-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AdderaIIXR)
 
-</div>
+---
