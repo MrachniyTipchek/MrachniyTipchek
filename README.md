@@ -12,6 +12,7 @@ I also work with **generative AI** and **machine learning**.
 ![Minecraft Mods](https://img.shields.io/badge/⛏_Minecraft_Mods-62B47A?style=flat-square&logo=minecraft&logoColor=white)
 ![Landing Pages](https://img.shields.io/badge/🌐_Landing_Pages-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 ![AI & ML](https://img.shields.io/badge/🧠_Generative_AI_&_ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![AI Agents](https://img.shields.io/badge/🤝_AI_Agents-8A2BE2?style=flat-square&logo=brains&logoColor=white)
 
 ---
 
