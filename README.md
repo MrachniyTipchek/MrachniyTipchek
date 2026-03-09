@@ -1,6 +1,8 @@
 <div align="center">
 
-![Header](https://img.shields.io/badge/Hi_👋-Welcome-2d2d2d?style=for-the-badge&labelColor=1793d1)
+<img src="https://img.shields.io/badge/Hi_👋-Welcome-1793d1?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Developer-Creator-2d2d2d?style=for-the-badge&labelColor=1793d1" />
+<img src="https://img.shields.io/badge/Bots_·_Mods_·_AI-Building_stuff-0d1117?style=for-the-badge&labelColor=5277C3" />
 
 </div>
 
@@ -14,21 +16,21 @@ I also work with **generative AI** and **machine learning**.
 
 ---
 
-### 🛠 What I do
+### 🛠 What I do?
 
-![Telegram](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=flat-square&logo=telegram&logoColor=white)
-![Minecraft](https://img.shields.io/badge/Minecraft_Mods-62B47A?style=flat-square&logo=minecraft&logoColor=white)
-![Web](https://img.shields.io/badge/Landing_Pages-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
-![AI](https://img.shields.io/badge/Generative_AI_&_ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+Telegram
+Minecraft
+Web
+AI
 
 ---
 
 ### 💻 Tech stack
 
-![Nix](https://img.shields.io/badge/Nix-5277C3?style=flat-square&logo=nixos&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+Nix
+Java
+Python
+Rust
 
 ---
 
@@ -37,16 +39,17 @@ I also work with **generative AI** and **machine learning**.
 🐧 **Systems:** Arch Linux · NixOS · macOS  
 ✏️ **Editors:** Cursor · NeoVim
 
-![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
-![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
-![Neovim](https://img.shields.io/badge/NeoVim-57A143?style=flat-square&logo=neovim&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+Arch
+NixOS
+macOS
+Neovim
+Cursor
 
 ---
 
 ### 📬 Contact
 
-[![Telegram](https://img.shields.io/badge/Telegram-AdderaIIXR-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AdderaIIXR)
+[Telegram](https://t.me/AdderaIIXR)
 
 ---
+
