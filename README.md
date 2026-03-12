@@ -1,17 +1,15 @@
 ### 👋 About me
 
-I work on **personal projects** and **free software**. I develop **Telegram bots** and **Minecraft mods** — including on request. I build **landing pages** and websites.
-
-I also work with **generative AI** and **machine learning**.
+I work on **personal projects** and **free software**, with a primary focus on building **autonomous AI agents** and integrating them into different applications. From time to time I also do **game modding**, **website development**, and create **Telegram bots**.
 
 ---
 
 ### 🛠 What I do
 
-![Telegram Bots](https://img.shields.io/badge/🤖_Telegram_Bots-26A5E4?style=flat-square&logo=telegram&logoColor=white)
-![Minecraft Mods](https://img.shields.io/badge/⛏_Minecraft_Mods-62B47A?style=flat-square&logo=minecraft&logoColor=white)
-![Landing Pages](https://img.shields.io/badge/🌐_Landing_Pages-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
-![AI Agents](https://img.shields.io/badge/🤝_AI_Agents-8A2BE2?style=flat-square&logo=brains&logoColor=white)
+![AI Agents](https://img.shields.io/badge/🤖_AI_Agents-8A2BE2?style=flat-square&logo=brains&logoColor=white)
+![Pet projects](https://img.shields.io/badge/💡_Pet_Projects-1E90FF?style=flat-square&logo=github&logoColor=white)
+![Open source](https://img.shields.io/badge/👐_Open_Source-34D058?style=flat-square&logo=github&logoColor=white)
+![Sites & bots](https://img.shields.io/badge/🌐_Sites_&_Bots-FF9800?style=flat-square&logo=google-chrome&logoColor=white)
 
 ---
 
@@ -21,7 +19,7 @@ I also work with **generative AI** and **machine learning**.
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Other minor ones](https://img.shields.io/badge/other_minor_ones-555555?style=flat-square)
 
 ---
 
